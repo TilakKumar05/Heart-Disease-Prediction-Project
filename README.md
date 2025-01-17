@@ -6,6 +6,7 @@
 - Dataset: Utilizes a heart disease dataset (heart-disease.csv) with approximately 300 rows.
 - Data Analysis: Includes descriptive statistics and visualizations to understand the dataset.
 - Machine Learning Models:
+  
    a. Support Vector Machines (SVM) - 91% accuracy (best performer).
   
    b. Random Forest.
